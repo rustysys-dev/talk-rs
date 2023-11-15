@@ -9,16 +9,16 @@ body:
     attributes:
       label: Problem Statement
       description: What needs to be decided on or standardised?
-      value: |
-        ## Problem Statement       
+      placeholder: |
+        I have noticed that when we do something we don't have a proper way of doing it
   - type: textarea
     id: considerations
     attributes:
       label: Considerations
       description: Are there any special considerations we should take into account when thinking about this decision record?
       placeholder: |
-        ## Considerations
-        -
+        - might need to take this into consideration
+        - might need to take that into consideration
   - type: checkboxes
     id: affects
     attributes:
