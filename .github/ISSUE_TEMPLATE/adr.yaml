@@ -10,7 +10,9 @@ body:
       label: Problem Statement
       description: What needs to be decided on or standardised?
       placeholder: |
-        I have noticed that when we do something we don't have a proper way of doing it
+        I have noticed that when we do something we don't have a proper way of doing it\
+    validations:
+      required: true
   - type: textarea
     id: considerations
     attributes:
