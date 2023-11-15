@@ -1,5 +1,5 @@
-name: Bug Report
-description: File a bug report
+name: Architectural Decision Record
+description: Create A New Architectural Decision Record
 title: "[ADR]: "
 labels: ["ADR"]
 assignees: []
