@@ -1,0 +1,31 @@
+name: Bug Report
+description: File a bug report
+title: "[ADR]: "
+labels: ["ADR"]
+assignees: []
+body:
+  - type: textarea
+    id: problem-statement
+    attributes:
+      label: Problem Statement
+      description: What needs to be decided on or standardised?
+      value: |
+        ## Problem Statement       
+  - type: textarea
+    id: considerations
+    attributes:
+      label: Considerations
+      description: Are there any special considerations we should take into account when thinking about this decision record?
+      placeholder: |
+        ## Considerations
+        -
+  - type: checkboxes
+    id: affects
+    attributes:
+      label: Affects Who?
+      description: Which of our development teams should be concerned about this decision?
+      options:
+        - label: Frontend
+        - label: Backend
+        - label: Infra
+        - label: Security
