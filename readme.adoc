@@ -1,0 +1,3 @@
+== Hey this is TalkRS
+
+It was suppose to be a server framework library but it never went anywhere so im testing it for pr templates hahahaha :sweat_smile:
