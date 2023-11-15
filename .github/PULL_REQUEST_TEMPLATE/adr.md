@@ -1,0 +1,3 @@
+## ADR Template
+
+## Stuff
